@@ -6,6 +6,7 @@
 在anaconda環境下使用pyinstaller打包
 
 使用的版本
+|  ---- |
 | bs4 : 0.0.1 |
 | lxml : 4.9.0 |
 | Python : 3.10.3 |
